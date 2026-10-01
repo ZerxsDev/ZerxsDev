@@ -94,7 +94,7 @@ Berikut adalah representasi metadata proyek dalam format JSON:
 </div>
 
 <div align="center">
-<sub>Built with 💻 and ☕ by <strong>Your Name</strong></sub>
+<sub>Built with 💻 and ☕ by <strong>ZerxsDev</strong></sub>
 <br/>
 <sub>© 2024 All Systems Operational</sub>
 </div>
