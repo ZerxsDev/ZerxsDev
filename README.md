@@ -32,13 +32,13 @@
 
 ---
 
-## 📡 // SYSTEM_OVERVIEW
+## 📡 SYSTEM_OVERVIEW
 
 Selamat datang di repositori saya. Proyek ini dibangun dengan arsitektur modern yang berfokus pada **performa**, **skalabilitas**, dan **keamanan**. Repositori ini berisi implementasi solusi teknis yang dirancang untuk lingkungan produksi berskala tinggi.
 
 > ⚠️ **NOTICE:** Sistem ini sedang dalam tahap pengembangan aktif. Beberapa fitur eksperimental mungkin belum stabil.
 
-### 🛠️ // TECH_STACK
+### 🛠️ TECH_STACK
 
 | Kategori | Teknologi |
 | :--- | :--- |
@@ -49,7 +49,7 @@ Selamat datang di repositori saya. Proyek ini dibangun dengan arsitektur modern 
 
 ---
 
-## ⚙️ // CONFIGURATION_DATA
+## ⚙️ CONFIGURATION_DATA
 
 Berikut adalah representasi metadata proyek dalam format JSON:
 
@@ -88,19 +88,7 @@ Berikut adalah representasi metadata proyek dalam format JSON:
   }
 }
 ```
-🚀 // INSTALLATION_PROTOCOL
-# Clone repository
-git clone https://github.com/username/repo-name.git
-
-# Masuk ke direktori
-cd repo-name
-
-# Install dependencies
-npm install --legacy-peer-deps
-
-# Jalankan development server
-npm run dev:cyber
-📊 // ACTIVITY_MATRIX
+📊 ACTIVITY_MATRIX
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" />
